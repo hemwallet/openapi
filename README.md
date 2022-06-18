@@ -9,7 +9,7 @@ You can install Hem wallet [here](https://microsoftedge.microsoft.com/addons/det
 ## Run your own node
 
 ```
-https://github.com/hemwallet/openapi.git
+git clone https://github.com/hemwallet/openapi.git
 cd openapi
 # change config.py
 python -m venv venv
