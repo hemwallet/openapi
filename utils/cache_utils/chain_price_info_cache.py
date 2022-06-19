@@ -22,6 +22,8 @@ def get_chain_price_info_api_call(chain_name):
         ).json()
     except ConnectionError:
         info = {}
+    except JSONDecodeError:
+        info = {}
     return info
 
 

@@ -25,6 +25,8 @@ def get_tail_info_api_call(tail_puzzlehash, chain_id):
             info = {}
     except ConnectionError:
         info = {}
+    except JSONDecodeError:
+        info = {}
     return info
 
 

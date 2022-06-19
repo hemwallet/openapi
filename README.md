@@ -16,6 +16,7 @@ python -m venv venv
 . ./venv/bin/activate
 pip install -r requirements.txt
 # change port or add ssl config files in run.py
+mkdir cache
 python run.py
 ```
 
