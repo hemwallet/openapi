@@ -26,7 +26,7 @@ def get_all_tail_list_info_api_call(chain_id):
     except ConnectionError:
         info = []
     except JSONDecodeError:
-        info = {}
+        info = []
     return info
 
 
