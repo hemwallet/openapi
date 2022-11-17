@@ -6,6 +6,7 @@ DeFi wallet on Chia Network.
 
 You can install Hem wallet [here](https://microsoftedge.microsoft.com/addons/detail/ibkgkjjpppcmhicmplcnanpalajpnodh).
 hem wallet website:https://wallet.hem.cc
+hem coin(https://www.hem.cc)
 ## Run your own node
 
 ```
