@@ -1,7 +1,7 @@
 # openapi
 
 DeFi wallet on Chia Network.
-[hem coin](https://www.hem.cc)
+[hem coin](https://www.hem.cc):Hem coin is a token issued on the chia blockchain
 ## Install
 
 You can install Hem wallet [here](https://microsoftedge.microsoft.com/addons/detail/ibkgkjjpppcmhicmplcnanpalajpnodh).
